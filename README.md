@@ -1,4 +1,4 @@
-About ME 👋
+👋 Hey, I'm Sandi
 ---------------------
 🔭 I’m currently working on Docker|Kubernetes|Terraform Hands-On Labs using AWS and GCP cloud providers.<br>
 🌱 I’m currently learning DevOps Techs.<br>
