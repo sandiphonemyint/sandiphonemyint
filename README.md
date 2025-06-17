@@ -5,13 +5,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
-🌐 With 3 years of hands-on IT experience, I specialize in IT support, system administration, and infrastructure operations across both on-premise and cloud environments.
+With 3 years of hands-on IT experience, I specialize in **IT support**, **system administration**, and **infrastructure operations** across both on-premise and cloud environments.
 
-I'm passionate about cloud technologies and building hands-on labs with **Docker**, **Kubernetes**, and **Terraform**. I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines**. My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
+I'm passionate about **cloud technologies** and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform**.  
+I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines** using tools like **GitHub Actions**, **Jenkins**, and **GitLab CI**.  
+My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
 
-📍 **Based in Bangkok**, I'm open to new opportunities where I can contribute, grow, and support a collaborative team. I'm committed to continuous learning and always strive to deliver value through my work.
+💼 I’m seeking roles as a **System Engineer**, **Cloud Engineer**, **System Administrator**, or **DevOps Engineer**.  
+🌍 Open to opportunities in **Bangkok**, **Vietnam**, **Malaysia**, **Singapore**, and **Myanmar**.  
+⭐ Previous experience at [**Visible One – Hong Kong**](https://visibleone.com/) and [**Myanmar Information Technology Pte Ltd**](https://www.mit.com.mm/).
+
+📍 I’m currently **Based in Bangkok**, and seeking a meaningful opportunity where I can apply my skills, support a collaborative team, and continue growing in a field I’m truly passionate about. I'm committed to continuous learning and always strive to deliver value through my work.
 
 ---
 ## 🛠️ Skills
