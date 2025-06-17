@@ -17,9 +17,13 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 
 🌱 I love building hands-on labs with **Docker**, **Kubernetes**, & **Terraform**.  
 🔧 I implement **Infrastructure as Code** and **CI/CD** with **GitHub Actions**, **Jenkins**, and **GitLab CI**.  
-☁️ Skilled in **AWS**, **Azure**, and **GCP**—from compute to automation.
+☁️ Skilled in **AWS**, **Azure**, and **GCP**—focusing on compute, networking, storage, identity, monitoring, and automation.
 
-💡 Open to roles as **System Engineer**, **Cloud Engineer**, **SysAdmin**, or **DevOps Engineer** in **Bangkok, Vietnam, Malaysia, Singapore, or Myanmar**.
+💼 I’m seeking roles as a **System Engineer**, **Cloud Engineer**, **System Administrator**, or **DevOps Engineer**.  
+🌍 Open to opportunities in **Bangkok**, **Vietnam**, **Malaysia**, **Singapore**, and **Myanmar**.  
+⭐ Previous experience at [**Visible One – Hong Kong**](https://visibleone.com/) and [**Myanmar Information Technology Pte Ltd**](https://www.mit.com.mm/).
+
+📍 I’m currently **Based in Bangkok**, and seeking a meaningful opportunity where I can apply my skills, support a collaborative team, and continue growing in a field I’m truly passionate about. I'm committed to continuous learning and always strive to deliver value through my work.
 
 ---
 
@@ -43,16 +47,17 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white">
 </p>
 
-- **Server Admin:** Windows/Linux setup, troubleshooting, tuning  
-- **Web/DB:** Apache, Nginx, IIS, MySQL, PostgreSQL  
-- **Cloud:** AWS, Azure, GCP, Alibaba  
-- **Automation:** Jenkins, GitHub Actions, GitLab CI, Ansible  
-- **IaC:** Terraform, Ansible  
-- **Scripting:** Bash, Python, PowerShell  
-- **Security:** SSL, DNS, access control  
-- **Monitoring:** Prometheus, Grafana, Zabbix  
-- **Docs:** Notion, Miro  
-- **PM:** Asana
+- **Server Administration**: Windows/Linux server setup, troubleshooting, performance tuning  
+- **Web & Database Management**: Apache, Nginx, IIS, MySQL/PostgreSQL, FTP  
+- **Cloud Platforms**: AWS, Azure, GCP, Alibaba — including billing, backup, and migration  
+- **Automation & CI/CD**: GitLab CI, GitHub Actions, Jenkins, Ansible, Docker, Kubernetes  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Scripting**: Bash, Python, PowerShell  
+- **Security & Certificates**: SSL certificate installation, DNS management  
+- **Monitoring Tools**: Prometheus, Grafana, Zabbix  
+- **IT Security Awareness**: Access control, compliance, and secure configuration  
+- **Documentation**: Notion, Miro – creating user guides, diagrams, and runbooks  
+- **Project Management**: Experience with Asana for task tracking and implementation
 
 ---
 
@@ -105,5 +110,5 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 
 <p align="center">
   <b>“Passionate about building in DevOps & Cloud ☁️🌐”</b><br>
-  <sub>© 2025 Sandi</sub>
+  <sub>© 2025 SandiPhoneMyint</sub>
 </p>
