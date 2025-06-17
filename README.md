@@ -7,12 +7,13 @@
 
 ## 🧑‍💻 About Me
 
-💻 I’m passionate about designing and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform** and I actively explore and implement **DevOps practices**, from **CI/CD pipelines** to **infrastructure automation**, using **GitHub Actions**, **Jenkins**, and **GitLab CI**. I’m also expanding my cloud expertise by working with both core and DevOps-related services across **AWS**, **Azure**, and **Google Cloud Platform (GCP)** — including compute, networking, storage, identity, monitoring, and IaC tools.
+🧑‍💻 I'm passionate about cloud technologies and hands-on labs with **Docker**, **Kubernetes**, and **Terraform**. I actively learn and implement **DevOps practices** such as **CI/CD** and **Infrastructure as Code (IaC)** using tools like **GitHub Actions**, **Jenkins**, and **GitLab CI**. My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
 
-📍 **Currently based in Bangkok**, I'm open to new opportunities where I can apply my skills, support a collaborative team, and grow in a field I'm deeply passionate about. I'm committed to continuous learning, delivering value, and always striving to do my best in every project I take on.
+📍 **Based in Bangkok**, I'm open to new opportunities where I can contribute, grow, and support a collaborative team.  
+I'm committed to continuous learning and always strive to deliver value through my work.
 
 ---
-## 🛠️ Skills & Abilities
+## 🛠️ Skills
 
 - **Server Administration**: Windows/Linux server setup, troubleshooting, performance tuning  
 - **Web & Database Management**: Apache, Nginx, IIS, MySQL/PostgreSQL, FTP  
@@ -32,7 +33,7 @@
 
 - **CI/CD Lab Environments:** Designing and testing pipelines using **Jenkins** (🐳 Docker on ☁️ GCP VM), **GitHub Actions**, and **GitLab**.
 - **Freelance Web Deployment & Cloud Server Management:** Managing deployments and cloud servers for clients.  
-  Visit 👉 [horoseek.online](https://horoseek.online)
+  Ongoing Project 👉 [horoseek.online](https://horoseek.online)
 
 ---
 
@@ -55,7 +56,7 @@
 
 ## 📬 Get in Touch 💬
 
-- 🔗 LinkedIn: [linkedin.com/in/sandiphonemyint](https://www.linkedin.com/in/yourprofile)  
+- 🔗 [LinkedIn](https://github.com/sandiphonemyint)
 ---
 
 © 2025 **Sandi** | Passionate about building in DevOps & Cloud ☁️ 🌐
