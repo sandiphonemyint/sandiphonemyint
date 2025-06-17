@@ -9,7 +9,7 @@
 
 🌐 With 3 years of hands-on IT experience, I specialize in IT support, system administration, and infrastructure operations across both on-premise and cloud environments.
 
-I'm passionate about cloud technologies and building hands-on labs with **Docker**, **Kubernetes**, and **Terraform**. I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines** using **GitHub Actions**, **Jenkins**, and **GitLab CI**. My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
+I'm passionate about cloud technologies and building hands-on labs with **Docker**, **Kubernetes**, and **Terraform**. I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines**. My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
 
 📍 **Based in Bangkok**, I'm open to new opportunities where I can contribute, grow, and support a collaborative team. I'm committed to continuous learning and always strive to deliver value through my work.
 
@@ -42,7 +42,7 @@ I'm passionate about cloud technologies and building hands-on labs with **Docker
 
 - 📜 Preparing for HashiCorp Certified: Terraform Associate  
 - 🔒 Preparing for GitHub Actions & Advanced Security certifications  
-- 📚 Hands-on learning with Kubernetes (in progress) ☸️
+- 📚 Hands-on learning with CICD and Kubernetes (in progress) ☸️
 
 ---
 
