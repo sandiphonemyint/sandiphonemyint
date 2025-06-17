@@ -7,9 +7,24 @@
 
 ## 🧑‍💻 About Me
 
-📍 I’m passionate about designing and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform** and I actively explore and implement **DevOps practices**, from **CI/CD pipelines** to **infrastructure automation**, using **GitHub Actions**, **Jenkins**, and **GitLab CI**. I’m also expanding my cloud expertise by working with both core and DevOps-related services across **AWS**, **Azure**, and **Google Cloud Platform (GCP)** — including compute, networking, storage, identity, monitoring, and IaC tools.
+💻 I’m passionate about designing and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform** and I actively explore and implement **DevOps practices**, from **CI/CD pipelines** to **infrastructure automation**, using **GitHub Actions**, **Jenkins**, and **GitLab CI**. I’m also expanding my cloud expertise by working with both core and DevOps-related services across **AWS**, **Azure**, and **Google Cloud Platform (GCP)** — including compute, networking, storage, identity, monitoring, and IaC tools.
 
 📍 **Currently based in Bangkok**, I'm open to new opportunities where I can apply my skills, support a collaborative team, and grow in a field I'm deeply passionate about. I'm committed to continuous learning, delivering value, and always striving to do my best in every project I take on.
+
+---
+## 🛠️ Skills & Abilities
+
+- **Server Administration**: Windows/Linux server setup, troubleshooting, performance tuning  
+- **Web & Database Management**: Apache, Nginx, IIS, MySQL/PostgreSQL, FTP  
+- **Cloud Platforms**: AWS, Azure, GCP, Alibaba — including billing, backup, and migration  
+- **Automation & CI/CD**: GitLab CI, GitHub Actions, Jenkins, Ansible, Docker, Kubernetes  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Scripting**: Bash, Python, PowerShell  
+- **Security & Certificates**: SSL certificate installation, DNS management  
+- **Monitoring Tools**: Prometheus, Grafana, Zabbix  
+- **IT Security Awareness**: Access control, compliance, and secure configuration  
+- **Documentation**: Notion, Miro – creating user guides, diagrams, and runbooks  
+- **Project Management**: Experience with Asana for task tracking and implementation
 
 ---
 
@@ -38,13 +53,9 @@
 
 ---
 
-## 📬 Get in Touch
+## 📬 Get in Touch 💬
 
-- 💬 Ask me anything about AWS Cloud or DevOps practices  
-- 📫 Email: [sandi.sdpm@gmail.com](mailto:sandi.sdpm@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sandiphonemyint](https://www.linkedin.com/in/yourprofile)  
-- 💻 GitHub: [github.com/sandiphonemyint](https://github.com/yourgithub)
-
 ---
 
-© 2025 **Sandi** | Passionate about building in DevOps & Cloud ☁️ 🌊
+© 2025 **Sandi** | Passionate about building in DevOps & Cloud ☁️ 🌐
