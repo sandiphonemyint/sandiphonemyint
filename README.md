@@ -45,8 +45,8 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 
 ## 🎯 Learning & Certification Goals
 
-- 📜 Preparing for HashiCorp Certified: Terraform Associate  
-- 🔒 Preparing for GitHub Actions & Advanced Security certifications  
+- 📜 Preparing for HashiCorp Certified: Terraform Associate Exam  
+- 🔒 Preparing for GitHub Advanced Security Exam
 - 📚 Hands-on learning with CICD and Kubernetes (in progress) ☸️
 
 ---
