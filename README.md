@@ -7,12 +7,9 @@
 
 ## 🧑‍💻 About Me
 
-I’m passionate about designing and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform**, with a strong focus on real-world cloud infrastructure scenarios.  
-I actively explore and implement **DevOps practices**, from **CI/CD pipelines** to **infrastructure automation**, using tools like **GitHub Actions**, **Jenkins**, and **GitLab CI**.  
-I’m also expanding my cloud expertise by working with both core and DevOps-related services across **AWS**, **Azure**, and **Google Cloud Platform (GCP)** — including compute, networking, storage, identity, monitoring, and IaC tools.
+📍 I’m passionate about designing and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform** and I actively explore and implement **DevOps practices**, from **CI/CD pipelines** to **infrastructure automation**, using **GitHub Actions**, **Jenkins**, and **GitLab CI**. I’m also expanding my cloud expertise by working with both core and DevOps-related services across **AWS**, **Azure**, and **Google Cloud Platform (GCP)** — including compute, networking, storage, identity, monitoring, and IaC tools.
 
-📍 **Currently based in Bangkok**, I'm open to new opportunities where I can apply my skills, support a collaborative team, and grow in a field I'm deeply passionate about.  
-I'm committed to continuous learning, delivering value, and always striving to do my best in every project I take on.
+📍 **Currently based in Bangkok**, I'm open to new opportunities where I can apply my skills, support a collaborative team, and grow in a field I'm deeply passionate about. I'm committed to continuous learning, delivering value, and always striving to do my best in every project I take on.
 
 ---
 
