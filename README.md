@@ -9,9 +9,7 @@
 
 With 3 years of hands-on IT experience, I specialize in **IT support**, **system administration**, and **infrastructure operations** across both on-premise and cloud environments.
 
-I'm passionate about **cloud technologies** and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform**.  
-I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines** using tools like **GitHub Actions**, **Jenkins**, and **GitLab CI**.  
-My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
+I'm passionate about **cloud technologies** and building hands-on labs using **Docker**, **Kubernetes**, and **Terraform**. I actively learn and implement **Infrastructure as Code (IaC)** and **CI/CD pipelines** using tools like **GitHub Actions**, **Jenkins**, and **GitLab CI**. My cloud experience spans **AWS**, **Azure**, and **GCP**, focusing on compute, networking, storage, identity, monitoring, and automation.
 
 💼 I’m seeking roles as a **System Engineer**, **Cloud Engineer**, **System Administrator**, or **DevOps Engineer**.  
 🌍 Open to opportunities in **Bangkok**, **Vietnam**, **Malaysia**, **Singapore**, and **Myanmar**.  
