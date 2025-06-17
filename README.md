@@ -1,13 +1,12 @@
-<!-- Banner image (optional, replace with your own if available) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0096C7&height=180&section=header&text=Hi!%20I'm%20Sandi%20🚀&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%2C%20I'm%20Sandi%20%F0%9F%91%8B%0ACloud%20Engineer%20%7C%20DevOps%20%7C%20Automation&fontAlignY=40&fontSize=28" alt="Sandi Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandiphonemyint&style=flat-square&color=blue" alt="Profile views" />
   <a href="https://www.linkedin.com/in/sandiphonemyint/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based%20in-Bangkok-orange" alt="Location" />
   <img src="https://img.shields.io/badge/AWS%20Certified-SAA--C03,%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  <img src="https://komarev.com/ghpvc/?username=sandiphonemyint&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -23,7 +22,6 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 💡 Open to roles as **System Engineer**, **Cloud Engineer**, **SysAdmin**, or **DevOps Engineer** in **Bangkok, Vietnam, Malaysia, Singapore, or Myanmar**.
 
 ---
-
 
 ## 🛠️ Tech Stack & Skills
 
@@ -73,6 +71,22 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 
 ---
 
+## 🏅 Certifications
+
+- 🟧 **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a1deb467-db32-4e66-9bf5-5efef4518dc1/public_url)**  
+  <sub>Amazon Web Services</sub>
+
+- 🟧 **[AWS Solutions Architect Associate](https://www.credly.com/badges/2fe9bcaf-9287-4579-adc3-13b68e19c7c8/public_url)**  
+  <sub>Amazon Web Services</sub>
+
+- 🛡️ **[ICSI | CNS - Certified Network Security Specialist](https://www.credential.net/cbebdc42-7105-4c4b-88a9-9c701d249a16#acc.96eLlyYM)**  
+  <sub>International CyberSecurity Institute</sub>
+
+- 🐧 **[Linux Foundation Cybersecurity Essentials](https://www.credly.com/badges/da6849ae-c88f-4afb-8afc-740c740918aa/public_url)**  
+  <sub>The Linux Foundation</sub>
+
+---
+
 ## 🎯 Learning & Certification Goals
 
 - 📜 Preparing for **HashiCorp Certified: Terraform Associate**
@@ -81,20 +95,9 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 
 ---
 
-## 🏅 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/a1deb467-db32-4e66-9bf5-5efef4518dc1/public_url"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=white"></a>
-  <a href="https://www.credly.com/badges/2fe9bcaf-9287-4579-adc3-13b68e19c7c8/public_url"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?logo=amazon-aws&logoColor=white"></a>
-  <a href="https://www.credential.net/cbebdc42-7105-4c4b-88a9-9c701d249a16#acc.96eLlyYM"><img src="https://img.shields.io/badge/ICSI%20CNS-007396?logo=security&logoColor=white"></a>
-  <a href="https://www.credly.com/badges/da6849ae-c88f-4afb-8afc-740c740918aa/public_url"><img src="https://img.shields.io/badge/Linux%20Foundation%20Cybersecurity-000000?logo=linux-foundation&logoColor=white"></a>
-</p>
-
----
-
 ## 📬 Get in Touch
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sandiphonemyint/"><img src="https://img.shields.io/badge/LinkedIn-sandiphonemyint-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
