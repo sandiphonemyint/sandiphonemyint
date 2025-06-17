@@ -33,12 +33,13 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 - **Project Management**: Experience with Asana for task tracking and implementation
 
 ---
-
 ## 🚀 Current Projects
 
-- **CI/CD Lab Environments:** Designing and testing pipelines using **Jenkins** (🐳 Docker on ☁️ GCP VM), **GitHub Actions**, and **GitLab**.
-- **Freelance Web Deployment & Cloud Server Management:** Managing deployments and cloud servers for clients.  
-  Ongoing Project 👉 [horoseek.online](https://horoseek.online)
+- **CI/CD Lab Environments** – Designing and testing pipelines using **Jenkins** (🐳 Docker on ☁️ GCP VM), **GitHub Actions**, and **GitLab CI**  
+- **Web & Cloud Deployment** – Managing cloud servers and deployments for freelance clients, e.g., [horoseek.online](https://horoseek.online)  
+- **Mobile App Infrastructure (Ongoing)** – Supporting the backend and cloud infra setup for an Android app currently live on the  
+ [👉 Google Play Store](https://shorturl.at/FD5o9) | [🌐 horoseek.online](https://horoseek.online)
+
 
 ---
 
