@@ -57,7 +57,7 @@ I'm passionate about cloud technologies and building hands-on labs with **Docker
 
 ## 📬 Get in Touch 💬
 
-- 🔗 [LinkedIn](https://github.com/sandiphonemyint)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandiphonemyint)
 ---
 
 © 2025 **Sandi** | Passionate about building in DevOps & Cloud ☁️ 🌐
