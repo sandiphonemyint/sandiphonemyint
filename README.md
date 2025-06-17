@@ -3,6 +3,11 @@
 **Cloud & DevOps Enthusiast**  
 *AWS Certified (SAA-C03, Cloud Practitioner)*
 
+![AWS](https://img.shields.io/badge/AWS%20Certified-SAA--C03,%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?logo=dev.to&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Bangkok-orange)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+
 ---
 
 ## 💻 About Me
@@ -18,6 +23,7 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 📍 I’m currently **Based in Bangkok**, and seeking a meaningful opportunity where I can apply my skills, support a collaborative team, and continue growing in a field I’m truly passionate about. I'm committed to continuous learning and always strive to deliver value through my work.
 
 ---
+
 ## 🛠️ Skills
 
 - **Server Administration**: Windows/Linux server setup, troubleshooting, performance tuning  
@@ -33,6 +39,7 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 - **Project Management**: Experience with Asana for task tracking and implementation
 
 ---
+
 ## 🚀 Current Projects
 
 - **CI/CD Lab Environments** – Designing and testing pipelines using **Jenkins** (🐳 Docker on ☁️ GCP VM), **GitHub Actions**, and **GitLab CI**  
@@ -40,13 +47,12 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 - **Mobile App Infrastructure (Ongoing)** – Supporting the backend and cloud infra setup for an Android app currently live on the  
  [👉 Google Play Store](https://shorturl.at/FD5o9) | [🌐 horoseek.online](https://horoseek.online)
 
-
 ---
 
 ## 🎯 Learning & Certification Goals
 
 - 📜 Preparing for HashiCorp Certified: Terraform Associate Exam  
-- 🔒 Preparing for GitHub Advanced Security Exam
+- 🔒 Preparing for GitHub Advanced Security Exam  
 - 📚 Hands-on learning with CICD and Kubernetes (in progress) ☸️
 
 ---
@@ -60,9 +66,12 @@ I'm passionate about **cloud technologies** and building hands-on labs using **D
 
 ---
 
-## 📬 Get in Touch 💬
+## 📬 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sandiphonemyint)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-sandiphonemyint-blue?logo=linkedin)](https://www.linkedin.com/in/sandiphonemyint)
+
 ---
 
-© 2025 **Sandi** | Passionate about building in DevOps & Cloud ☁️ 🌐
+> “Passionate about building in DevOps & Cloud ☁️🌐”
+
+© 2025 **Sandi**
