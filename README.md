@@ -107,6 +107,6 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 ---
 
 <p align="center">
-  <b>“Passionate about building in DevOps & Cloud ☁️🌐”</b><br>
+  <b>“Passionate about building Scalable Infrastructure & Automating Workflows ☁️🌐”</b><br>
   <sub>© 2025 SandiPhoneMyint</sub>
 </p>
