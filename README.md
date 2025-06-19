@@ -51,7 +51,7 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 - **Automation & CI/CD**: GitLab CI, GitHub Actions, Jenkins, Ansible, Docker, Kubernetes  
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
 - **Scripting**: Bash, Python, PowerShell  
-- **Security & Certificates**: SSL certificate installation, DNS management  
+- **Security & Certificates**: SSL certificate installation, DNS management, Cloudflare, CDN 
 - **Monitoring Tools**: Prometheus, Grafana, Zabbix  
 - **IT Security Awareness**: Access control, compliance, and secure configuration  
 - **Documentation**: Notion, Miro – creating user guides, diagrams, and runbooks  
@@ -65,8 +65,8 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
   _Designing & testing pipelines with Jenkins (Docker on GCP VM), GitHub Actions & GitLab CI_
 
 - **Web & Cloud Deployment**  
-  _Managing cloud servers & deployments for freelance clients_  
-  [horoseek.online](https://horoseek.online)
+  _Managing cloud servers & deployments for freelance projects_  
+  [horoseek.online](https://horoseek.online) **(Ongoing)**
 
 - **Mobile App Infrastructure (Ongoing)**  
   _Supporting backend & cloud infra for an Android app_  
