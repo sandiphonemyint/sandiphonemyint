@@ -19,7 +19,7 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 ☁️ Skilled in **AWS**, **Azure**, and **GCP**—focusing on compute, networking, storage, identity, monitoring, and automation.
 
 💼 I’m seeking roles as a **System Engineer**, **Cloud Engineer**, **System Administrator**, or **DevOps Engineer**.  
-🌍 Open to opportunities in **Bangkok**, **Vietnam**, **Malaysia**, **Singapore**, and **Myanmar**.  
+🌍 Open to opportunities in **Thailand**, **Vietnam**, **Malaysia**, **Singapore**, and **Myanmar**.  
 ⭐ Previous experience at [**Visible One – Hong Kong**](https://visibleone.com/) and [**Myanmar Information Technology Pte Ltd**](https://www.mit.com.mm/).
 
 📍 I’m currently **Based in Bangkok**, and seeking a meaningful opportunity where I can apply my skills, support a collaborative team, and continue growing in a field I’m truly passionate about. I'm committed to continuous learning and always strive to deliver value through my work.
