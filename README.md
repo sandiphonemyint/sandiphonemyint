@@ -48,7 +48,7 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 - **Server Administration**: Windows/Linux server setup, troubleshooting, performance tuning  
 - **Web & Database Management**: Apache, Nginx, IIS, MySQL/PostgreSQL, FTP  
 - **Cloud Platforms**: AWS, Azure, GCP, Alibaba — including billing, backup, and migration  
-- **Automation & CI/CD**: GitLab CI, GitHub Actions, Jenkins, Ansible, Docker, Kubernetes  
+- **Automation & CI/CD**: GitLab CI, GitHub Actions, Jenkins, Argo CD, Docker, Kubernetes  
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
 - **Scripting**: Bash, Python, PowerShell  
 - **Security & Certificates**: SSL certificate installation, DNS management, Cloudflare, CDN 
