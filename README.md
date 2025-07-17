@@ -61,8 +61,8 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 
 ## 🚀 Featured Projects
 
-- **CI/CD Lab Environments**  
-  _Designing & testing pipelines with Jenkins (Docker on GCP VM), GitHub Actions & GitLab CI_
+- **DevOps-CI/CD Lab Environments**  
+  _Designing & testing pipelines with Jenkins, GCP Cloud Build, Argo CD, GitHub Actions & GitLab CI_
 
 - **Web & Cloud Deployment**  
   _Managing cloud servers & deployments for freelance projects_  
@@ -93,7 +93,7 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 ## 🎯 Learning & Certification Goals
 
 - Preparing for **HashiCorp Certified: Terraform Associate Exam**
-- Preparing for **GitHub Advanced Security Exam**
+- Preparing for **KCNA Exam**
 - Deepening hands-on with **CI/CD & Kubernetes** ☸️ 
 
 ---
