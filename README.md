@@ -79,10 +79,10 @@ I'm **Sandi**, a passionate **Cloud & DevOps Enthusiast** with 3+ years of IT ex
 - 🟧 **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/a1deb467-db32-4e66-9bf5-5efef4518dc1/public_url)**  
   <sub>Amazon Web Services</sub>
 
-- 🟧 **[AWS Solutions Architect Associate](https://www.credly.com/badges/2fe9bcaf-9287-4579-adc3-13b68e19c7c8/public_url)**
+- 🟧 **[AWS Solutions Architect Associate](https://www.credly.com/badges/2fe9bcaf-9287-4579-adc3-13b68e19c7c8/public_url)**    
   <sub>Amazon Web Services</sub>
 
-- 🟧 **[AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/e27ffb04-f518-4552-8942-ca8cf035f3ca/public_url)**
+- 🟧 **[AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/e27ffb04-f518-4552-8942-ca8cf035f3ca/public_url)**    
   <sub>Amazon Web Services</sub>
   
 - 🛡️ **[ICSI | CNS - Certified Network Security Specialist](https://www.credential.net/cbebdc42-7105-4c4b-88a9-9c701d249a16#acc.96eLlyYM)**  
